@@ -1,7 +1,7 @@
 # Insurance_prediction
 Insurance prediction using linear regression
 
-Have done 
+Experimented
 
    EDA and visualization using matplotlib and seaborn libraries .... 
    
